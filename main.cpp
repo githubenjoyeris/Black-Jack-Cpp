@@ -3,7 +3,7 @@
 #include <chrono>
 
 using namespace std;
-
+xddddd
 string deck[1000] = {}; //sitas
 string cards = "1234567890kqj";
 string suits = "cdhs";
